@@ -1,8 +1,9 @@
 ## Olá, sou Diego Monteiro 🖐️
 
 [![Blog](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&url=https://diegomonteirosousa.github.io/portifolio/)](https://diegomonteirosousa.github.io/portifolio/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcfq7OGd924p0ewTx-ALrMQ)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/inovartvisual)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCcfq7OGd924p0ewTx-ALrMQ)
+
 
 
 ![Diego GitHub stats](https://github-readme-stats.vercel.app/api?username=diegomonteirosousa&show_icons=true&theme=radical)
